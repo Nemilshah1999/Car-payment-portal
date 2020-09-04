@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Lobster&family=Pacifico&display=swap');
+
+.hero {
+  display: block;
+  background-size: cover;
+  position: relative;
+  background: transparent;
+  text-align: center;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  min-height: 280px;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-container {
+  margin-top: -100px;
+}
+
+.customH1 {
+  color: rgb(255, 255, 255);
+  margin-top: 40px;
+  font-weight: 800;
+  font-size: 60px;
+  font-family: 'Fredoka One', cursive;
+  text-align: center;
+}
+
+.customH4 {
+  color: rgb(255, 255, 255);
+  font-weight: 300;
+  margin-top: 30px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+
+hr.new1{
+    margin-top: 50px;
+    border: 1px solid gold;
+}
